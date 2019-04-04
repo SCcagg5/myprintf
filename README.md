@@ -1,6 +1,6 @@
 # myprintf
 
-*int       my_printf(const char \*str, ...)*
+*`int       my_printf(const char \*str, ...)`*
 
 Le caractère spécificateur de conversion type précise si l’argument correspondant doit être interprété comme un caractère, une chaîne, un entier ou un nombre à virgule flottante. Le caractère type, qui est le seul champ de spécification de conversion obligatoire, apparaît après tous les champs facultatifs.
   
